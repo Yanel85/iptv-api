@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-21 18:52:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-04-22 06:51:20,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -7,55 +7,55 @@ CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$订阅源
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2$订阅源
-CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8$订阅源
+CCTV-2,http://120.76.248.139/live/bfgd/4200000061.m3u8$订阅源
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源
-CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源
+CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8$订阅源
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000$订阅源
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源
-CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8$订阅源
+CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$订阅源
-CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源
+CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,http://tv.scjyhd.com:4022/udp/239.11.0.241:5140$订阅源
-CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$订阅源
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8$订阅源
-CCTV-6,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8$订阅源
+CCTV-6,http://120.76.248.139/live/bfgd/4200000065.m3u8$订阅源
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7$订阅源
-CCTV-7,https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8$订阅源
+CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$订阅源
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源
 CCTV-8,http://goo.bkpcp.top/mg/cctv8$订阅源
-CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8$订阅源
+CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8$订阅源
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源
-CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8$订阅源
+CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8$订阅源
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教$订阅源
 CCTV-10,http://goo.bkpcp.top/mg/cctv10$订阅源
-CCTV-10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8$订阅源
+CCTV-10,http://120.76.248.139/live/bfgd/4200000129.m3u8$订阅源
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8$订阅源
-CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8$订阅源
+CCTV-11,http://120.76.248.139/live/bfgd/4200000130.m3u8$订阅源
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法$订阅源
-CCTV-12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8$订阅源
+CCTV-12,http://120.76.248.139/live/bfgd/4200000131.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源
-CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8$订阅源
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
-CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8$订阅源
+CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8$订阅源
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
 CCTV-15,http://tv.scjyhd.com:4022/udp/239.93.0.103:5140$订阅源
-CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000$订阅源
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8$订阅源
-CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源
+CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$订阅源
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 CCTV-17,http://tv.scjyhd.com:4022/udp/239.11.0.107:5140$订阅源
-CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源
+CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8$订阅源
 
 📡卫视频道,#genre#
 
@@ -66,10 +66,10 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源
 🏀体育频道,#genre#
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$订阅源
-CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源
+CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,http://tv.scjyhd.com:4022/udp/239.11.0.241:5140$订阅源
-CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$订阅源
 
 🪁动画频道,#genre#
 
