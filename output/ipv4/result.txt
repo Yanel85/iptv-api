@@ -1,24 +1,37 @@
 🕘️更新时间,#genre#
-2025-09-01 06:20:08,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1$订阅源
+2025-09-01 18:24:44,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1$订阅源
+CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8$订阅源
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2$订阅源
+CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8$订阅源
+CCTV-3,http://www.cdnstv.com:6398/hls/3/index.m3u8$订阅源
 CCTV-4,http://61.149.251.202:4022/rtp/239.3.1.105:8092$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5$订阅源
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376$订阅源
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p$订阅源
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6$订阅源
+CCTV-6,http://www.cdnstv.com:6398/hls/6/index.m3u8$订阅源
+CCTV-7,http://www.cdnstv.com:6398/hls/7/index.m3u8$订阅源
 CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8$订阅源
+CCTV-8,http://www.cdnstv.com:6398/hls/8/index.m3u8$订阅源
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9$订阅源
+CCTV-9,http://www.cdnstv.com:6398/hls/9/index.m3u8$订阅源
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10$订阅源
+CCTV-10,http://www.cdnstv.com:6398/hls/10/index.m3u8$订阅源
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11$订阅源
+CCTV-11,http://www.cdnstv.com:6398/hls/11/index.m3u8$订阅源
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12$订阅源
+CCTV-12,http://www.cdnstv.com:6398/hls/12/index.m3u8$订阅源
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13$订阅源
+CCTV-13,http://www.cdnstv.com:6398/hls/13/index.m3u8$订阅源
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14$订阅源
-CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001$订阅源
+CCTV-14,http://www.cdnstv.com:6398/hls/14/index.m3u8$订阅源
+CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8$订阅源
 CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548$订阅源
+CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv$订阅源
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源
@@ -29,18 +42,17 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$订阅源
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws$订阅源
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8$订阅源
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-云南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8$订阅源
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
@@ -59,8 +71,8 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
-炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8$订阅源
-炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8$订阅源
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
@@ -85,13 +97,12 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 
 🈳无结果频道,#genre#
-CCTV-3,url
-CCTV-7,url
-CCTV-15,url
+CCTV-16,url
 香港卫视,url
+湖南卫视,url
 黑龙江卫视,url
 安徽卫视,url
 重庆卫视,url
@@ -112,6 +123,7 @@ CCTV-15,url
 天津卫视,url
 西藏卫视,url
 新疆卫视,url
+云南卫视,url
 广东珠江,url
 广东体育,url
 广东卫视,url
@@ -151,7 +163,6 @@ CCTV-5+,url
 金鹰卡通,url
 黑莓动画,url
 24H国漫热播,url
-浙江少儿,url
 河北少儿科教,url
 七龙珠,url
 海绵宝宝,url
