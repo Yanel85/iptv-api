@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-02 18:21:17,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
+2025-11-03 06:18:50,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
-CCTV-2,http://sh.lnott.top:880/dx02.m3u8$订阅源
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
-CCTV-12,http://sh.lnott.top:880/dx12.m3u8$订阅源
-CCTV-14,http://sh.lnott.top:880/dx14.m3u8$订阅源
-CCTV-14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil$订阅源
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源
@@ -17,17 +13,11 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
-湖南卫视,http://sh.lnott.top:880/dx31.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040$订阅源
-黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036$订阅源
-安徽卫视,http://sh.lnott.top:880/dx34.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
-河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
-江西卫视,http://sh.lnott.top:880/dx43.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 
 ☘️广东频道,#genre#
@@ -38,11 +28,9 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002$订阅源
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
@@ -70,6 +58,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 
 🈳无结果频道,#genre#
+CCTV-2,url
 CCTV-4,url
 CCTV-5,url
 CCTV-5+,url
@@ -79,12 +68,18 @@ CCTV-8,url
 CCTV-9,url
 CCTV-10,url
 CCTV-11,url
+CCTV-12,url
 CCTV-13,url
+CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 香港卫视,url
 浙江卫视,url
+湖南卫视,url
+湖北卫视,url
+黑龙江卫视,url
+安徽卫视,url
 重庆卫视,url
 东方卫视,url
 广西卫视,url
@@ -92,6 +87,7 @@ CCTV-17,url
 海南卫视,url
 河北卫视,url
 江苏卫视,url
+江西卫视,url
 辽宁卫视,url
 内蒙古卫视,url
 宁夏卫视,url
@@ -129,6 +125,7 @@ CCTV-5,url
 CCTV-5+,url
 广东体育,url
 五星体育,url
+体育赛事,url
 劲爆体育,url
 爱体育,url
 超级体育,url
