@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-09 06:19:12,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
+2025-11-09 18:20:35,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270$订阅源
+CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil$订阅源
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源
@@ -20,6 +21,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv$订阅源
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
@@ -32,13 +34,12 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
-七龙珠,http://live.nctv.top/huya.php?id=11601966$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 🌊港·澳·台,#genre#
@@ -57,8 +58,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 
 🈳无结果频道,#genre#
 CCTV-2,url
@@ -67,7 +68,6 @@ CCTV-5,url
 CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
-CCTV-8,url
 CCTV-9,url
 CCTV-10,url
 CCTV-11,url
@@ -95,7 +95,6 @@ CCTV-17,url
 宁夏卫视,url
 青海卫视,url
 山西卫视,url
-陕西卫视,url
 四川卫视,url
 深圳卫视,url
 三沙卫视,url
@@ -134,7 +133,6 @@ CCTV-5+,url
 精品体育,url
 风云足球,url
 足球频道,url
-卡酷动画,url
 动漫秀场,url
 青春动漫,url
 爱动漫,url
@@ -145,6 +143,7 @@ CCTV-5+,url
 24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
+七龙珠,url
 火影忍者,url
 海绵宝宝,url
 猫和老鼠,url
