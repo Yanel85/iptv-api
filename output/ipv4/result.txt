@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-10 06:20:46,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
+2025-11-10 18:25:26,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
@@ -20,7 +20,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8$订阅源
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
@@ -32,14 +31,14 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
-七龙珠,http://live.nctv.top/huya.php?id=11601966$订阅源
+七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966$订阅源
 七龙珠,http://www.douzhicloud.site:35455/huya/11601966$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
@@ -97,6 +96,7 @@ CCTV-17,url
 宁夏卫视,url
 青海卫视,url
 山西卫视,url
+陕西卫视,url
 四川卫视,url
 深圳卫视,url
 三沙卫视,url
@@ -143,6 +143,7 @@ CCTV-5+,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
+24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 火影忍者,url
