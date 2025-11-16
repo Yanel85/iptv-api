@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2025-11-16 18:21:52,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
+2025-11-17 06:20:07,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq$订阅源
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq$订阅源
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416$订阅源
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807419$订阅源
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq$订阅源
-CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121$订阅源
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq$订阅源
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq$订阅源
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq$订阅源
@@ -30,6 +29,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
+新疆卫视,http://124.128.73.58:9901/tsfile/live/0110_1.m3u8$订阅源
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
@@ -42,12 +42,13 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 🌊港·澳·台,#genre#
@@ -103,7 +104,6 @@ CCTV-16,url
 三沙卫视,url
 天津卫视,url
 西藏卫视,url
-新疆卫视,url
 云南卫视,url
 广东珠江,url
 广东体育,url
@@ -144,7 +144,6 @@ CCTV-5+,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
-24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
