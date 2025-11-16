@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2025-11-16 06:17:19,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
+2025-11-16 18:21:52,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq$订阅源
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq$订阅源
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq$订阅源
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416$订阅源
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq$订阅源
+CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121$订阅源
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq$订阅源
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq$订阅源
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq$订阅源
@@ -39,22 +41,19 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 
 🪁动画频道,#genre#
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源
-凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
-凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg$订阅源
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源
@@ -68,7 +67,7 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 
 🈳无结果频道,#genre#
 CCTV-3,url
@@ -145,6 +144,7 @@ CCTV-5+,url
 优漫卡通,url
 金鹰卡通,url
 黑莓动画,url
+24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
