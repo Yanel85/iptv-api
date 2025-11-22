@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 18:21:33,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+2025-11-23 06:19:58,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
@@ -19,7 +19,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
-浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
@@ -39,12 +38,11 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8$订阅源
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
-炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
+炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 🌊港·澳·台,#genre#
@@ -78,6 +76,7 @@ CCTV-10,url
 CCTV-11,url
 CCTV-16,url
 香港卫视,url
+浙江卫视,url
 湖北卫视,url
 黑龙江卫视,url
 安徽卫视,url
