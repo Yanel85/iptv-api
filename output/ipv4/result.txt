@@ -1,12 +1,19 @@
 🕘️更新时间,#genre#
-2025-12-03 06:20:48,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+2025-12-03 18:27:31,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
+CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
+CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/.m3u8$订阅源
+CCTV-10,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8$订阅源
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
+CCTV-12,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/.m3u8$订阅源
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002$订阅源
+CCTV-14,http://183.238.86.52:4022/rtp/239.10.0.212:1025$订阅源
+CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/.m3u8$订阅源
+CCTV-15,http://183.238.86.52:4022/rtp/239.11.0.25:1025$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil$订阅源
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源
@@ -16,30 +23,29 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+广东卫视,http://183.238.86.52:4022/rtp/239.10.0.111:1025$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+湖南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/.m3u8$订阅源
+北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/.m3u8$订阅源
+黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/.m3u8$订阅源
+重庆卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
-东南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226909/.m3u8$订阅源
+东南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
-甘肃卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/.m3u8$订阅源
-海南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226922/.m3u8$订阅源
-河北卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226917/.m3u8$订阅源
+甘肃卫视,http://183.238.86.52:4022/rtp/239.11.0.175:1025$订阅源
+广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8$订阅源
+贵州卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
+河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
-吉林卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226912/.m3u8$订阅源
-江西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/.m3u8$订阅源
-辽宁卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/.m3u8$订阅源
-内蒙古卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/.m3u8$订阅源
-宁夏卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226921/.m3u8$订阅源
-青海卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/.m3u8$订阅源
+江西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-山东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/.m3u8$订阅源
-山西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/.m3u8$订阅源
-陕西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/.m3u8$订阅源
-四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/.m3u8$订阅源
-天津卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/.m3u8$订阅源
-新疆卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226923/.m3u8$订阅源
+陕西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226926/.m3u8$订阅源
+四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/.m3u8$订阅源
+深圳卫视,http://183.238.86.52:4022/rtp/239.10.0.52:1025$订阅源
+天津卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/.m3u8$订阅源
+天津卫视,http://183.238.86.52:4022/rtp/239.10.0.55:1025$订阅源
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
@@ -50,10 +56,11 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002$订阅源
+风云足球,http://183.238.86.52:4022/rtp/239.11.0.59:1025$订阅源
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
-少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
@@ -75,8 +82,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 
 🈳无结果频道,#genre#
 CCTV-1,url
@@ -86,24 +93,24 @@ CCTV-5,url
 CCTV-5+,url
 CCTV-6,url
 CCTV-8,url
-CCTV-10,url
-CCTV-12,url
-CCTV-14,url
-CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 香港卫视,url
 浙江卫视,url
 湖北卫视,url
 安徽卫视,url
-重庆卫视,url
 东方卫视,url
-广西卫视,url
-贵州卫视,url
+海南卫视,url
+河北卫视,url
 江苏卫视,url
-深圳卫视,url
+辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
+青海卫视,url
+山西卫视,url
 三沙卫视,url
 西藏卫视,url
+新疆卫视,url
 云南卫视,url
 广东珠江,url
 广东体育,url
@@ -133,7 +140,6 @@ CCTV-5+,url
 爱体育,url
 超级体育,url
 精品体育,url
-风云足球,url
 足球频道,url
 卡酷动画,url
 动漫秀场,url
