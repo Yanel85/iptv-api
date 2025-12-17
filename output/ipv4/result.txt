@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-12-17 06:21:25,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
+2025-12-17 18:26:20,https://v4-3ee63cd9178a070a2db29f77915c49d4.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=00846e5f2410e7b0d940bf40dbf81b24$订阅源
 
 📺央视频道,#genre#
+CCTV-9,https://v4-3ee63cd9178a070a2db29f77915c49d4.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=00846e5f2410e7b0d940bf40dbf81b24$订阅源
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1$订阅源
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil$订阅源
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2$订阅源
@@ -32,11 +33,15 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 🪁动画频道,#genre#
 少儿动画,http://182.123.208.170:12345/rtp/225.1.4.189:1238$订阅源
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$订阅源
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil$订阅源
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
+金鹰卡通,http://101.66.194.143:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+金鹰卡通,http://125.42.151.15:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590$订阅源
 
 🌊港·澳·台,#genre#
@@ -66,7 +71,6 @@ CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
-CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-12,url
@@ -130,15 +134,12 @@ CCTV-5+,url
 精品体育,url
 风云足球,url
 足球频道,url
-卡酷动画,url
 动漫秀场,url
 青春动漫,url
 爱动漫,url
 宝宝动画,url
 优漫卡通,url
-金鹰卡通,url
 黑莓动画,url
-24H国漫热播,url
 浙江少儿,url
 河北少儿科教,url
 七龙珠,url
